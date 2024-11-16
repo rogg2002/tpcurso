@@ -1,0 +1,1 @@
+He creado esta pagina en base al trabajo de mi señora. Es un contacto real y direccion real. Utilice como ayuda para un carousel bootstrap, el resto se trabajo con etiquetas semanticas y sus respectivos estilos.
